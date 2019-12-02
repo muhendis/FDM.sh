@@ -1,4 +1,4 @@
-# FDM.sh : İnterface in one script
+# FDM.sh : Interface in one script
 
 FDM.sh (File and Directory Management) provides an interface that runs on the terminal that handles general file and directory operations and basic data file operations.
 
