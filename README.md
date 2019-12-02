@@ -14,7 +14,7 @@ Then, it just remains to run this file.
 ```	
 ./FDM.sh
 ```	
-## screenshots of the application
+## Screenshots of the application
 
 <p align="left">
 <img src="https://github.com/muhendis/fdm.sh/blob/master/screenshots/home%20page.png"> 
